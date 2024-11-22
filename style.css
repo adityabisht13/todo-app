@@ -1,0 +1,62 @@
+.container{
+    width: 100vw;
+    height: 100vh;
+    background-color: antiquewhite;
+}
+.herosection{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+   font-size: xx-large;
+    width: 100vw;
+
+    
+   
+
+   
+    
+    
+}
+.box{
+    display: flex;
+}
+
+h1{
+    color: black;
+  
+}
+.task{
+    margin-top: -10px;
+}
+
+#input{
+    input::placeholder{
+        color: black;
+        font-weight:bolder;
+        
+
+        
+    }
+    background-color: #f5fea9;
+    
+}
+
+.cross{
+    color: red;
+    border: none; /* Removes the border */
+    background: none;
+   
+    
+}
+.x{
+    color: red;
+    border: none; /* Removes the border */
+    background: none;
+}
+
+
+
+#add{
+    background-color: blanchedalmond;
+}
